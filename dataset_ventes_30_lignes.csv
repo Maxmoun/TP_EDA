@@ -1,0 +1,31 @@
+﻿ID,Date,Produit,Catégorie,Quantité,Prix_unitaire_USD,Revenu_USD,Région,Client
+1,2025-08-01,Laptop,Électronique,2,800,1600,Kinshasa,Alice
+2,2025-08-02,Smartphone,Électronique,5,450,2250,Lubumbashi,Bob
+3,2025-08-03,Chaussures,Mode,10,70,700,Kinshasa,Clara
+4,2025-08-04,T-shirt,Mode,15,25,375,Goma,Daniel
+5,2025-08-05,Sac à dos,Accessoires,8,60,480,Lubumbashi,Eva
+6,2025-08-06,Écouteurs,Électronique,12,35,420,Kinshasa,Frank
+7,2025-08-07,Montre,Accessoires,6,120,720,Bukavu,Grace
+8,2025-08-08,Chargeur,Électronique,20,15,300,Kananga,Henry
+9,2025-08-09,Tablette,Électronique,4,300,1200,Kolwezi,Irene
+10,2025-08-10,Jean,Mode,7,55,385,Kinshasa,John
+11,2025-08-11,Casquette,Mode,12,20,240,Lubumbashi,Kevin
+12,2025-08-12,Chaussures,Mode,5,85,425,Goma,Laura
+13,2025-08-13,Sac à main,Accessoires,6,75,450,Bukavu,Mike
+14,2025-08-14,Clavier,Électronique,9,40,360,Kinshasa,Nathalie
+15,2025-08-15,Souris,Électronique,14,22,308,Kananga,Oscar
+16,2025-08-16,Pantalon,Mode,8,45,360,Kolwezi,Paul
+17,2025-08-17,Ceinture,Accessoires,10,30,300,Lubumbashi,Rachel
+18,2025-08-18,Enceinte Bluetooth,Électronique,7,65,455,Kinshasa,Samuel
+19,2025-08-19,Powerbank,Électronique,11,50,550,Goma,Sarah
+20,2025-08-20,Sweatshirt,Mode,6,80,480,Bukavu,Thomas
+21,2025-08-21,Lunettes,Accessoires,9,45,405,Kinshasa,Ursula
+22,2025-08-22,Webcam,Électronique,5,70,350,Lubumbashi,Victor
+23,2025-08-23,Chemise,Mode,10,40,400,Kananga,Wendy
+24,2025-08-24,Sac de voyage,Accessoires,4,110,440,Kolwezi,Xavier
+25,2025-08-25,Disque SSD,Électronique,6,95,570,Kinshasa,Yvette
+26,2025-08-26,Pull,Mode,8,65,520,Goma,Zacharie
+27,2025-08-27,Portefeuille,Accessoires,13,35,455,Lubumbashi,Aline
+28,2025-08-28,Smartwatch,Électronique,3,180,540,Bukavu,Bruno
+29,2025-08-29,Robe,Mode,7,90,630,Kinshasa,Chantal
+30,2025-08-30,Microphone,Électronique,4,125,500,Goma,David
